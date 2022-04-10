@@ -1,2 +1,2 @@
 # mernproject
-Learning the Mearn stack, a simple Memories Project
+Learning the MERN stack, a simple Memories Project
